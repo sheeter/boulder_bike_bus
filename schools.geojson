@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Crest View",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27393579483032,
+          40.051623943121925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Centennial",
+        "jurisdiction": "BVSD",
+        "type": "middle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26788473129272,
+          40.04491396096069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Foothill",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28407990932465,
+          40.035739024249644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Columbine",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26918292045593,
+          40.03196848198703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Casey",
+        "jurisdiction": "BVSD",
+        "type": "middle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27939677238464,
+          40.023416218214294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Whittier",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.269376039505,
+          40.02170728002668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Mapleton ECE",
+        "jurisdiction": "BVSD",
+        "type": "preschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28529763221741,
+          40.02020370766705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Alaya",
+        "jurisdiction": "private",
+        "type": "preschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27235329151154,
+          40.03508186412775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Boulder Waldorf",
+        "jurisdiction": "private",
+        "type": "pre/K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27232646942139,
+          40.049390093397044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Jarrow",
+        "jurisdiction": "private",
+        "type": "all"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28280049562454,
+          40.04582153083327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Shining Mountain",
+        "jurisdiction": "private",
+        "type": "all"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28415232896805,
+          40.05393163010686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Journey",
+        "jurisdiction": "private",
+        "type": "pre/K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27254506945609,
+          40.05853753148401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Acorn",
+        "jurisdiction": "private",
+        "type": "pre/K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24936810135841,
+          40.026059647654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Mapleton Montessori",
+        "jurisdiction": "private",
+        "type": "pre/K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25681525468826,
+          40.03139959667441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Boulder High",
+        "jurisdiction": "BVSD",
+        "type": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27474850416183,
+          40.0140288540999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "Flatirons",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28498113155365,
+          40.00807532258254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "University Hills",
+        "jurisdiction": "BVSD",
+        "type": "elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27183830738066,
+          40.00502645322839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school_name": "New Vista",
+        "jurisdiction": "BVSD",
+        "type": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26713371276855,
+          40.001303525150895
+        ]
+      }
+    }
+  ]
+}
