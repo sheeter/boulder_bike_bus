@@ -1,10 +1,10 @@
 # Boulder Bike Bus
 
-Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end.
+Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco)
 
 ## The Boulder Bike Bus is launching in fall 2022. 
 
-TBD Date: North Boulder to Boulder Creek
+### TBD Date: North Boulder to Boulder Creek
 
 When: TBD - meet at 7:30 AM, roll at 7:45 AM
 
@@ -13,7 +13,7 @@ Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teacher
 What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
 
-“Bus Route” (map with schools below):
+### “Bus Route” (map with schools below):
 
 Meet on JFK Promenade at 8th Avenue
 Roll east on JFK Promenade
