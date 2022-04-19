@@ -28,7 +28,7 @@ Cross Van Ness Avenue
 "Add to your calendar"
 
 
-Questions, suggestions, or press inquiries? Email us at _____.
+*Questions, suggestions, or press inquiries? Email us at _____.*
 
 
 [Zoomable map](https://burritojustice.github.io/valencia_bikeway/map#18/37.75774/-122.42144
