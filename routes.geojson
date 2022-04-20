@@ -7,7 +7,7 @@
         "stroke-width": "",
         "name": "North Boulder Meet-u",
         "stroke-opacity": "",
-        "01type": ""
+        "01type": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +455,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "To Foothill",
-        "01type": ""
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -477,7 +477,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To BWK"
+        "name": "To BWK",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -500,7 +501,8 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "To Shining Mountain",
-        "emergency": ""
+        "emergency": "",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -522,7 +524,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To Centennial"
+        "name": "To Centennial",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -544,7 +547,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To Mapleton"
+        "name": "To Mapleton",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -566,7 +570,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To Acorn"
+        "name": "To Acorn",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -588,7 +593,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To Casey"
+        "name": "To Casey",
+        "01type": "arrow"
       },
       "geometry": {
         "type": "LineString",
@@ -600,6 +606,51 @@
           [
             -105.27923583984375,
             40.022454945750745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 4,
+        "name": "To Whittier",
+        "stroke-opacity": 1,
+        "01type": "arrow",
+        "stroke": "#0008ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.27935922145844,
+            40.02018522091547
+          ],
+          [
+            -105.27809053659439,
+            40.02045019720973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "To Mapleton ECE",
+        "stroke-opacity": 1,
+        "01type": "arrow",
+        "stroke": "#0008ff"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.27936190366745,
+            40.02018522091547
+          ],
+          [
+            -105.28063595294952,
+            40.01991818950039
           ]
         ]
       }
