@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#f500ed",
+        "stroke": "#019812",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "West-Central Connection",
@@ -365,7 +365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#f500ed",
+        "stroke": "#019812",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Balsam-Goose",
@@ -454,7 +454,8 @@
         "stroke": "#0008ff",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "name": "To Foothill"
+        "name": "To Foothill",
+        "01type": ""
       },
       "geometry": {
         "type": "LineString",
