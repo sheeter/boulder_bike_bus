@@ -1,6 +1,6 @@
 # Boulder Bike Bus
 
-Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco)
+Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
 ## The Boulder Bike Bus is launching in fall 2022. 
 
