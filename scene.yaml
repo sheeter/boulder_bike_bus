@@ -29,20 +29,24 @@ global:
 sources:
     mapzen:
         type: MVT
-        url: https://xyz.api.here.com/tiles/osmbase/512/all/{z}/{x}/{y}.mvt
-        url_params:
+        url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
+        url_params: 
+            api_key:
             access_token: FTYsIM6IQpC4nFOM2S6LpQ
 
     _routes:
         type: GeoJSON
-        url: https://github.com/sheeter/boulder_bike_bus/routes.geojson
+        url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/routes.geojson
     _schools:
         type: GeoJSON
-        url: https://github.com/sheeter/boulder_bike_bus/schools.geojson
+        url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
     _satellite:
         # url: https://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/512/png
-        url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
+        # url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
+        url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
+        utl_params: 
+            key: wTkSyYFwAJ31EaUeDbXl
         # rasters: [terrain_normals]
         # url_params:
         #     app_id: 0VeWPmMuUeMebnjNVGz9
@@ -105,16 +109,7 @@ styles:
                 color: |
                     color.a = step(.5,fract(u_time-v_texcoord.y*.5));
                     
-    _bus:
-        base: lines
-        texture: https://burritojustice.github.io/valencia_bikeway/images/bus.png
-        texcoords: true
-        animated: true
-        shaders:
-            blocks:
-                color: |
-                    color.a = step(.2,fract(u_time-v_texcoord.y*.45));
-                    
+
 layers:
     
     # places:
@@ -124,16 +119,10 @@ layers:
     
     _schools:
         data: {source: _schools}
-        filter: {$zoom: {min: 17}}
+        # filter: {$zoom: {min: 17}}
         draw:
             points:
-                color: |
-                    function(){
-                        if (feature.Approval_Status == 'Approved')
-                            {color = 'yellow'}
-                        return color
-                        }
-                # color: yellow
+                color: red
                 size: 10px
                 order: 1000
                 outline:
@@ -141,20 +130,7 @@ layers:
                     width: 1px
                 text:
                     optional: true
-                    # text_source: global.titlecase('feature.BUSINESS_N')
-                    text_source: |
-                        function toTitleCase() {
-                            var name = feature.BUSINESS_N.replace(
-                            /\w\S*/g,
-                            function(txt) {
-                              return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-                            }
-                            
-                          );
-                          name += '\n(' + feature.Application_Type + ')'
-                          return name
-                        }
-                    # text_source: BUSINESS_N
+                    text_source: school_name
                     font:
                         fill: white
                         size: [[18,12px],[19,16px]]
@@ -162,87 +138,45 @@ layers:
                             color: black
                             width: 3px                    
                 
-    roads:
-        filter: {not: {name: Valencia St.}}
-        draw:
-            lines:
-                visible:
-                    false
+
 
     _routes:
         # enabled: false
         data: {source: _routes}
-        _one_way:
-            filter: 
-                direction: [N, S] 
-
-            # enabled: false
-            _cars:
-                filter: {kind: auto}
-                # enabled: false
-                draw:
-                    _ants:
-                        color: blue
-                        # color: red
-                        width: [[14,.1px],[16,2px],[18,4px]]
-                        width: [[15,6px],[16,6px],[17,3m]]
-                        order: 1000
-                    _lines: 
-                        color: white
-                        width: [[14,.1px],[16,2px],[18,4px]]
-                        width: [[15,6px],[16,6px],[17,3m]]
-                        order: 1000
-
-            _bikes:
-                filter: {kind: bike}
-                _high_zoom:
-                    filter: {$zoom:{min: 17}}
-                    draw:
-                        _ants:
-                            color: green
-                            # width: [[14,.1px],[16,2px],[18,4px]]
-                            width: 2.5m
-                            width: [[16,6px],[17,2.5m]]
-                            order: 1000
-                        _lines: 
+        draw:
+            _lines: 
+                color: |
+                    function(){
+                        return feature.stroke
+                        }
+                # color: black
+                width: [[14,2px],[18,8px]]
+                order: 1000
+        labels:
+            filter: {$zoom: {min: 14}}
+            draw:
+                text:
+                    # optional: true
+                    # text_source: name
+                    font:
+                        fill: black
+                        size: [[18,12px],[19,16px]]
+                        stroke:
                             color: white
-                            width: [[14,.1px],[16,2px],[18,4px]]
-                            width: [[16,6px],[17,2.5m]]
-
-                            order: 1001
-                _low_zoom:
-                    filter: {$zoom:{max: 17}, direction: N}
-                    draw: 
-                        lines:
-                            offset: [[15, 3.5px], [16, 6.5px]]
-                            color: green
-                            width: 6px
-                            order: 2000
-                            outline:
-                                color: white
-                                width: 1px
-            _muni:
-                filter: {kind: transit}
-                draw:
-                    _ants:
-                        color: red
-                        width: [[14,.1px],[16,2px],[18,4px]]
-                        order: 1000
-                    _lines: 
-                        color: white
-                        width: [[14,.1px],[16,2px],[18,4px]]
-                        order: 1000
-            _emergency:
-                filter: {kind: emergency}
-                draw:
-                    _ants:
-                        color: black
-                        width: [[14,.1px],[16,2px],[18,5px]]
-                        order: 1000
-                    _lines: 
-                        color: white
-                        width: [[14,.1px],[16,2px],[18,5px]]
-                        order: 1000
+                            width: 3px 
+                
+        _connector:
+            filter: {01type: connector}
+            draw:
+                _ants:
+                    color: function(){return feature.stroke}
+                    width: [[14,2px],[18,8px]]
+                    order: 1001
+                _lines: 
+                    color: white
+                    width: [[14,2px],[18,8px]]
+                    order: 1001
+        
         _two_way:
             # enabled: false
 
@@ -264,127 +198,12 @@ layers:
                             }
                     # color: red
                     width: [[14,.1px],[16,2px],[18,5px]]
+                    order: 1001
+  
 
-                            
-                    order: 1001
-        _loading:
-            filter: {kind: loading, $zoom :{min: 17}}
-            draw:
-                lines:
-                    # color: [.5,.5,.5,0.75]
-                    # color: [.8,.8,.8,0.3]
-                    color: yellow
-                    # color: red
-                    width: [[14,.1px],[16,2px],[18,5px]]
-                    width: 3m
-                    order: 1001
-            label:
-                filter: {$zoom:{min: 19}}
-                draw:
-                    text:
-                        # repeat_distance: 512
-                        # optional: true
-                        font:
-                            fill: black
-                            size: [[18,10px],[19,12px]]
-                            stroke:
-                                color: white
-                                width: 3px
-                        text_source: function(){return 'commercial/loading'}
-                    
-        _parklet_zones:
-            filter: {kind: parklet, $zoom :{min: 17}}
-            draw:
-                lines:
-                    # color: [.5,.5,.5,0.75]
-                    # color: [.8,.8,.8,0.3]
-                    color: orange
-                    # color: red
-                    # width: [[14,.1px],[16,2px],[18,5px]]
-                    width: 3m
-                    order: 1001
-            label:
-                filter: {$zoom:{min: 19}}
-                draw:
-                    text:
-                        # repeat_distance: 512
-                        optional: true
-                        font:
-                            fill: black
-                            size: [[18,10px],[19,12px]]
-                            stroke:
-                                color: white
-                                width: 3px
-                        text_source: function(){return 'parklet/public space'}
 
-                    
-        _school:
-            filter: {kind: school, $zoom :{min: 17}}
-            draw:
-                lines:
-                    # color: [.5,.5,.5,0.75]
-                    # color: [.8,.8,.8,0.3]
-                    color: aqua
-                    # color: red
-                    # width: [[14,.1px],[16,2px],[18,5px]]
-                    width: 4m
-                    order: 1001
-        labels:
-            filter: {$zoom: {min: 18}}
-            draw:
-                text:
-                    # anchor: 
-                    repeat_distance: 512
-                    optional: true
-                    # text_source: pop100
-                    font:
-                        fill: black
-                        size: [[18,10px],[19,12px]]
-                        stroke:
-                            color: white
-                            width: 3px
-    _existing_parklets:
-        data: {source: _parklets}
-        filter: {$zoom: {min: 17}}
-        draw:
-            points:
-                interactive: true
-                collide: false
-                color: [1,0,0,0.75]
-                size: |
-                    function(){ return ($zoom/1.5) }
-                # size: 12px
-                outline:
-                    color: white
-                    # color: black
-                    # color: [1,0,0,0.85]
-                    width: 2px
-                text:
-                    # anchor: 
-                    # repeat_distance: 512
-                    # optional: true
-                    text_source: applicant
-                    font:
-                        fill: white
-                        size: [[18,10px],[19,12px]]
-                        stroke:
-                            color: black
-                            width: 3px
-                    
-                    
-    _curbs:
-        data: {source: _sf_curbs}
-        draw: 
-            lines:
-                color: [.7,.7,.7]
-                width: [[14,.1px],[16,2px],[18,4px]]
-                order: 1000
-                outline:
-                    color: white
-                    width: .5px
-
-    _satellite:
-        data: {source: _satellite}
-        draw:
-            raster:
-                order: 999 # draw on bottom
+#     _satellite:
+#         data: {source: _satellite}
+#         draw:
+#             raster:
+#                 order: 999 # draw on bottom
