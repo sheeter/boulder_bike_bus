@@ -48,7 +48,15 @@
         opacity: 0.7;
         top: 20%
       }
-
+     .legend i.dot {
+        width: 12px;
+        height: 12px;
+        float: left;
+        margin: 3px 9px 0 0;
+        opacity: 0.7;
+        border-radius: 50%;
+        border-style: solid;
+      }
       .legend i.icon {
         background-size: 18px;
         background-color: rgba(255, 255, 255, 1);
@@ -67,11 +75,11 @@
       let scene
       var layer = Tangram.leafletLayer({
         scene: 'scene.yaml',
-        attribution: 'Made for <a href="https://thefrisc.com" target="_blank">The Frisc</a> by @<a href="https://burritojustice.github.io/frisc/soft_story/">burritojustice</a> | <a href="https://www.nextzen.org" target="_blank">Nextzen & Tangram</a> | &copy; OSM contributors </a>'
+        attribution: '<a href="https://burritojustice.github.io/boulder_bike_bus" target="_blank">Boulder Bike Bus</a> | Data via BVSD |  <a href="https://www.nextzen.org" target="_blank">Nextzen & Tangram</a> | &copy; OSM contributors </a>'
       });
       layer.addTo(map);
-      map.setView([40.0150,105.2705], 12);
-
+      map.setView([40.0305,-105.2650], 13);
+      map.setMinZoom(13);
       var hash = new L.Hash(map);
       scene = layer.scene
       scene.subscribe({
@@ -95,11 +103,12 @@
           div.innerHTML += '<i style="background:' + x.config.global.plasma[0] + '"></i><span>0-10K/sq.mi</span><br>';
           div.innerHTML += '<i class="line" style="background:aqua"></i><span>liquefaction</span><br>';
           div.innerHTML += '<i class="line" style="background:green"></i><span>landslide</span><br>';
+          div.innerHTML += '<i class="dot" style="background:yellow;border-color:black"></i><span>Shared Space</span><br>';
           div.innerHTML += '<i class="icon" style="background-image: url(../../images/frisc_red_ball_logo.png);background-repeat: no-repeat;"></i><span><a href="https://thefrisc.com/to-recover-from-a-major-earthquake-sf-needs-housing-now-not-just-later-e2de82084be">Learn more!</a></span><br>';
           
           return div;
         };
-//         legend.addTo(map);
+//         legend.addTo(map); // uncomment this to enable the legend -- you'll have to change the div.innerHTML comments to match your map features
       }
       
     </script>
