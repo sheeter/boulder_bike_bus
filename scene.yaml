@@ -157,7 +157,7 @@ layers:
         # enabled: false
         data: {source: _routes}
         draw:
-            _lines: 
+            _ants: 
                 color: |
                     function(){
                         return feature.stroke
@@ -166,6 +166,10 @@ layers:
                 # here you can either specify a CSS / RBG / HSL color, or use a geojson property, or use a function to generate one.
                 # but this is an edge case -- the hex color from geojson.io starts with a # which causes issues as that's a comment in yaml
                 # but running it through a function makes things happy
+                width: [[14,2px],[18,8px]]
+                order: 1000
+            _lines: 
+                color: white
                 width: [[14,2px],[18,8px]]
                 order: 1000
         labels:
