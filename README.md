@@ -38,8 +38,8 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 [Zoomable map](map#14/40.0332/-105.2629): marching ants indicate direction of route.
 
 [![screenshot](https://user-images.githubusercontent.com/3979711/164786376-04cf2708-9af9-4a2f-95ab-0e2d6fea6d1c.png)](map#14/40.0332/-105.2629)
-
-<img width="763" alt="image" src="https://user-images.githubusercontent.com/3979711/164786376-04cf2708-9af9-4a2f-95ab-0e2d6fea6d1c.png">
+(relative links may get wonky with markdown in the repo vs the github.io url)
+<a href="map#14/40.0332/-105.2629"><img width="763" alt="image" src="https://user-images.githubusercontent.com/3979711/164786376-04cf2708-9af9-4a2f-95ab-0e2d6fea6d1c.png"></a>
 
 
 ## Sources
