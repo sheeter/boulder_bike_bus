@@ -38,16 +38,11 @@ sources:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
     _satellite:
-        # url: https://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/512/png
-        # url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
         url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
         url_params: 
-            key: wTkSyYFwAJ31EaUeDbXl
-        # rasters: [terrain_normals]
-        # url_params:
-        #     app_id: 0VeWPmMuUeMebnjNVGz9
-        #     app_code: MVqjbI661R5lC2DqkAZpNg
+            key: getyourfreekeyfrommaptiler
+
 styles:
     _polygons:
         base: polygons
@@ -147,6 +142,9 @@ layers:
                         return feature.stroke
                         }
                 # color: black
+                # here you can either specify a CSS / RBG / HSL color, or use a geojson property, or use a function to generate one.
+                # but this is an edge case -- the hex color from geojson.io starts with a # which causes issues as that's a comment in yaml
+                # but running it through a function makes things happy
                 width: [[14,2px],[18,8px]]
                 order: 1000
         labels:
@@ -162,8 +160,9 @@ layers:
                             color: white
                             width: 3px 
                 
-        _connector:
-            filter: {01type: connector}
+        _primary_ants:
+            filter: {01type: primary}
+            # here we are filtering just primary roads to show as ants
             draw:
                 _ants:
                     color: function(){return feature.stroke}
@@ -176,6 +175,7 @@ layers:
         
         _two_way:
             # enabled: false
+            # just leaving this in here for reference if you want to do conditional styling
 
             filter: {direction: two-way}
             draw:
@@ -185,7 +185,7 @@ layers:
                     color: |
                         function(){
                             var color = "black"
-                            if (feature.bike){
+                            if (feature.bike){ // this is the geojson property
                                 color = 'green'
                                 }
                             if (feature.SFMTA){
@@ -198,7 +198,7 @@ layers:
                     order: 1001
   
 
-
+# you'll need to provde your own key from maptiler to use satellite tiles -- though I wouldn't in this case because it will make the routes hard to see
 #     _satellite:
 #         data: {source: _satellite}
 #         draw:
