@@ -35,10 +35,10 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 *Questions, suggestions, or press inquiries? Email us at _____.*
 
 
-[Zoomable map](./map#18/37.75774/-122.42144
+[Zoomable map](map#18/37.75774/-122.42144
 ): marching ants indicate direction of route.
 
-[![screenshot](images/one-way.gif)](/map#18/37.75774/-122.42144)
+[![screenshot](images/one-way.gif)](map#18/37.75774/-122.42144)
 
 
 ## Sources
