@@ -142,7 +142,15 @@ layers:
                             }
                     # color: grey
                     width: 1.5px          
-                
+                text:
+                    optional: true
+                    text_source: school_name
+                    font:
+                        fill: white
+                        size: [[18,12px],[19,16px]]
+                        stroke:
+                            color: black
+                            width: 3px           
 
 
     _routes:
