@@ -31,8 +31,7 @@ sources:
         type: MVT
         url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
         url_params: 
-            api_key:
-            access_token: global.token
+            api_key: global.token
     _routes:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/routes.geojson
@@ -44,7 +43,7 @@ sources:
         # url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
         url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
-        utl_params: 
+        url_params: 
             key: wTkSyYFwAJ31EaUeDbXl
         # rasters: [terrain_normals]
         # url_params:
