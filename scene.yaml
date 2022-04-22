@@ -12,7 +12,7 @@ import:
     # - https://www.nextzen.org/carto/refill-style/11/themes/terrain-shading-dark.zip
 
 global:
-    token: AGbk_eg5Qdi75xOs4sfsLAA
+    token: DpCrhQqsR2igQPEINRTfcw
     block_line: 50
     block: 49
     point_zoom: 14
@@ -32,8 +32,7 @@ sources:
         url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
         url_params: 
             api_key:
-            access_token: FTYsIM6IQpC4nFOM2S6LpQ
-
+            access_token: global.token
     _routes:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/routes.geojson
