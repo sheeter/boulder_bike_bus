@@ -4,10 +4,15 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "stroke-width": "",
         "name": "North Boulder Meet-u",
         "stroke-opacity": "",
-        "01type": "marker"
+        "01type": "marker",
+        "kind": " ⏰",
+        "time": "7:45"
       },
       "geometry": {
         "type": "Point",
@@ -417,9 +422,6 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Balsam-Goose Connector",
-        "emergency": "",
-        "direction": "",
-        "auto": "",
         "kind": "",
         "01type": "connector"
       },
@@ -549,7 +551,6 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "To Shining Mountain",
-        "emergency": "",
         "01type": "arrow"
       },
       "geometry": {
@@ -1081,8 +1082,7 @@
         "name": "Boulder Creek Connector",
         "stroke-opacity": 1,
         "01type": "connector",
-        "stroke": "#019812",
-        "emergency": ""
+        "stroke": "#019812"
       },
       "geometry": {
         "type": "LineString",
@@ -1383,9 +1383,15 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Route Split",
         "stroke-opacity": "",
-        "01type": "marker"
+        "01type": "marker",
+        "kind": "stop",
+        "time": "8:00 AM",
+        "emoji": "🛑"
       },
       "geometry": {
         "type": "Point",
@@ -1402,8 +1408,7 @@
         "name": "Fourmile Creek Connector",
         "stroke-opacity": "",
         "01type": "connector",
-        "stroke": "#019812",
-        "emergency": ""
+        "stroke": "#019812"
       },
       "geometry": {
         "type": "LineString",
@@ -1476,6 +1481,25 @@
             -105.28090685606003,
             40.05542214084241
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Glenwood",
+        "kind": "stop",
+        "time": "8:10 AM",
+        "emoji": "🛑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2604228258133,
+          40.032946049997584
         ]
       }
     }
