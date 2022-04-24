@@ -80,6 +80,7 @@
       layer.addTo(map);
       map.setView([40.0305,-105.2650], 13);
       map.setMinZoom(13);
+      L.control.scale()
       var hash = new L.Hash(map);
       scene = layer.scene
       scene.subscribe({
