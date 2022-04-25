@@ -23,11 +23,11 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 ### Timetable 
 
 ⏰ 7:45 AM Depart 13th Street and Four Mile Creek  
-🛑 7:50 AM Arrival at :school: Crest View Elementary  
-🛑 8:00 AM Arrival at Wonderland Creek and :school: Centennial Middle School  
+🛑 7:50 AM Arrival at 🏫 Crest View Elementary  
+🛑 8:00 AM Arrival at Wonderland Creek and 🏫 Centennial Middle School  
 🚏 ~8:10 AM Glenwood Drive  
 🚏 ~8:15 AM Goose Creek  
-🛑 8:20 AM Arrival at :school: Acorn School  
+🛑 8:20 AM Arrival at 🏫 Acorn School  
 
 
 "Add to your calendar"
