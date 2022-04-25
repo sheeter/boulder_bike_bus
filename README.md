@@ -36,7 +36,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 *Questions, suggestions, or press inquiries? Email us at _____.*
 
-[Zoomable map](map#14/40.0332/-105.2629): marching ants indicate direction of route.
+[Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629): marching ants indicate direction of route.
 
 [![screenshot](https://user-images.githubusercontent.com/3979711/164786376-04cf2708-9af9-4a2f-95ab-0e2d6fea6d1c.png)](map#14/40.0332/-105.2629)
 
