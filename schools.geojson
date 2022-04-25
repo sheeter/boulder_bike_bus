@@ -21,7 +21,8 @@
       "properties": {
         "school_name": "Centennial",
         "jurisdiction": "BVSD",
-        "type": "middle"
+        "type": "middle",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
