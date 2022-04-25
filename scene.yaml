@@ -42,7 +42,7 @@ sources:
         url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
         url_params: 
-            key: getyourfreekeyfrommaptiler
+            key: GqZWha4PKN6pK6IEijud
 
 styles:
     _polygons:
