@@ -37,7 +37,8 @@
       "properties": {
         "school_name": "Foothill",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +53,8 @@
       "properties": {
         "school_name": "Columbine",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": ""
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +69,8 @@
       "properties": {
         "school_name": "Casey",
         "jurisdiction": "BVSD",
-        "type": "middle"
+        "type": "middle",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,8 @@
       "properties": {
         "school_name": "Whittier",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +101,8 @@
       "properties": {
         "school_name": "Mapleton ECE",
         "jurisdiction": "BVSD",
-        "type": "preschool"
+        "type": "preschool",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +117,8 @@
       "properties": {
         "school_name": "Alaya",
         "jurisdiction": "private",
-        "type": "preschool"
+        "type": "preschool",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +133,8 @@
       "properties": {
         "school_name": "Boulder Waldorf",
         "jurisdiction": "private",
-        "type": "pre/K"
+        "type": "pre/K",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +149,8 @@
       "properties": {
         "school_name": "Jarrow",
         "jurisdiction": "private",
-        "type": "all"
+        "type": "all",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +165,8 @@
       "properties": {
         "school_name": "Shining Mountain",
         "jurisdiction": "private",
-        "type": "all"
+        "type": "all",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +181,8 @@
       "properties": {
         "school_name": "Journey",
         "jurisdiction": "private",
-        "type": "pre/K"
+        "type": "pre/K",
+        "visible": ""
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +197,8 @@
       "properties": {
         "school_name": "Acorn",
         "jurisdiction": "private",
-        "type": "pre/K"
+        "type": "pre/K",
+        "visible": ""
       },
       "geometry": {
         "type": "Point",
@@ -202,7 +213,8 @@
       "properties": {
         "school_name": "Mapleton Montessori",
         "jurisdiction": "private",
-        "type": "pre/K"
+        "type": "pre/K",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -217,7 +229,8 @@
       "properties": {
         "school_name": "Boulder High",
         "jurisdiction": "BVSD",
-        "type": "high"
+        "type": "high",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -232,7 +245,8 @@
       "properties": {
         "school_name": "Flatirons",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +261,8 @@
       "properties": {
         "school_name": "University Hills",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -262,7 +277,8 @@
       "properties": {
         "school_name": "New Vista",
         "jurisdiction": "BVSD",
-        "type": "high"
+        "type": "high",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
