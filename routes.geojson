@@ -804,7 +804,8 @@
         "stroke-opacity": 1,
         "01type": "arrow",
         "stroke": "#0008ff",
-        "stroke-width": 4
+        "stroke-width": 4,
+        "time": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1369,7 +1370,10 @@
       "properties": {
         "name": "Route Split",
         "01type": "marker",
-        "stroke": ""
+        "stroke": "",
+        "kind": "split",
+        "emoji": "⏯",
+        "time": "7:50"
       },
       "geometry": {
         "type": "Point",
@@ -1386,9 +1390,9 @@
         "name": "Route Split",
         "stroke-opacity": "",
         "01type": "marker",
-        "kind": "stop",
+        "kind": "split",
         "time": "8:00 AM",
-        "emoji": "🛑"
+        "emoji": "⏯"
       },
       "geometry": {
         "type": "Point",
@@ -1486,9 +1490,9 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "name": "Glenwood",
-        "kind": "stop",
+        "kind": "split",
         "time": "8:10 AM",
-        "emoji": "🛑",
+        "emoji": "⏯",
         "01type": "marker"
       },
       "geometry": {
