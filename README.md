@@ -1,9 +1,8 @@
-# Boulder Bike Bus
+# Boulder Bike Bus - Launching on Fridays in Fall 2022
 
 Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
 ## Test of the initial Crosstown Route Friday May 13th!
-## Boulder Bike Bus will officially launch on Fridays in fall 2022. 
 
 ### Friday May 13th: North Boulder to BCSIS/High Peaks Elementary
 
