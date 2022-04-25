@@ -112,7 +112,8 @@ layers:
     
     _schools:
         data: {source: _schools}
-        # filter: {$zoom: {min: 17}}
+        filter: {not: {visible: hide}}
+        
         draw:
             points:
                 color: |
