@@ -654,14 +654,34 @@
         "marker-color": "#7e7e7e",
         "name": "Parkside Park",
         "kind": "🛑",
+        "time": "7:55 AM",
+        "emoji": "🛑",
+        "stroke-opacity": "",
+        "01type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26318550109863,
+          40.0384086721257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "name": "Goose Creek Junction",
+        "stroke-opacity": "",
+        "kind": "🛑",
         "time": "8:10 AM",
         "emoji": "🛑"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.2604228258133,
-          40.032946049997584
+          -105.2598488330841,
+          40.027351542884084
         ]
       }
     }
