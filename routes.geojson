@@ -9,8 +9,9 @@
         "name": "North Boulder Meet-u",
         "stroke-opacity": "",
         "01type": "marker",
-        "kind": " ⏰",
-        "time": "7:45"
+        "kind": "start",
+        "time": "7:45",
+        "emoji": "⏰"
       },
       "geometry": {
         "type": "Point",
@@ -1385,7 +1386,7 @@
         "name": "Route Split",
         "stroke-opacity": "",
         "01type": "marker",
-        "kind": "🛑",
+        "kind": "stop",
         "time": "8:00 AM",
         "emoji": "🛑"
       },
@@ -1485,9 +1486,10 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "name": "Glenwood",
-        "kind": "🛑",
+        "kind": "stop",
         "time": "8:10 AM",
-        "emoji": "🛑"
+        "emoji": "🛑",
+        "01type": "marker"
       },
       "geometry": {
         "type": "Point",
