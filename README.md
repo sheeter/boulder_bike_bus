@@ -2,11 +2,11 @@
 
 Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
-## Test of the initial Crosstown Route Friday May 13th!
+## First Test of the Crosstown Route Friday April 29th!
 
-### Friday May 13th: North Boulder to BCSIS/High Peaks Elementary
+### Friday April 29th: Parkside Park to BCSIS/High Peaks Elementary
 
-When: Friday May 13 - meet at 7:30 AM, roll at 7:45 AM
+When: Friday April 29 - meet at 7:30 AM, roll at 7:45 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
@@ -15,8 +15,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### Initial Crosstown “Bus Route” (map with schools below):
 
-1. Meet at 13th Street & Four Mile Creek
-2. Wiggle south and east to 26th Street
+1. Meet at Parkside Park and 26th Street
 3. Roll south onto Elmer's Two Mile Path
 4. Turn east onto Goose Creek
 5. Turn south onto Foothills Path
@@ -26,9 +25,8 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### Timetable 
 
-⏰ 7:45 AM Depart 13th Street and Four Mile Creek  
-🛑 7:55 AM Arrival at Parkside Park / Kalmia Ave Connector  
-🛑 8:10 AM Arrival at Goose Creek Greenway / Balsom & Edgewood Connector  
+⏰ 7:45 AM Depart Parkside Park   
+🛑 8:00 AM Arrival at Goose Creek Greenway / Balsom & Edgewood Connector  
 🏁 8:30 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 
