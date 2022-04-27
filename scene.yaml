@@ -38,7 +38,7 @@ sources:
 
     _routes:
         type: GeoJSON
-        url: https://raw.githubusercontent.com/burritojustice/boulder_bike_bus/main/routes.geojson
+        url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/routes.geojson
     _schools:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
@@ -92,7 +92,7 @@ styles:
             blocks:
                 color: |
                     color.a = step(.2,fract(u_time-v_texcoord.y*.45));
-
+ 
     _arrows:
         base: lines
         blend: overlay
