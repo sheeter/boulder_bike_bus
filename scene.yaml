@@ -13,7 +13,7 @@ import:
     # - https://www.nextzen.org/carto/refill-style/11/themes/terrain-shading-dark.zip
 
 global:
-    token: DpCrhQqsR2igQPEINRTfcw
+    token: FTYsIM6IQpC4nFOM2S6LpQ
     block_line: 50
     block: 49
     point_zoom: 14
@@ -32,7 +32,7 @@ sources:
         type: MVT
         url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
         url_params: 
-            api_key:
+            api_key: 
             access_token: global.token
             # access_token: FTYsIM6IQpC4nFOM2S6LpQ
 
@@ -48,7 +48,7 @@ sources:
         url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
         utl_params: 
-            key: wTkSyYFwAJ31EaUeDbXl
+            key: GqZWha4PKN6pK6IEijud
         # rasters: [terrain_normals]
         # url_params:
         #     app_id: 0VeWPmMuUeMebnjNVGz9
