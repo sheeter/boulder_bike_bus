@@ -185,10 +185,12 @@ layers:
 
         labels:
             filter: {$zoom: {min: 14}}
+            
             draw:
                 text:
                     # optional: true
                     # text_source: name
+                    text_wrap: true
                     font:
                         fill: black
                         size: [[18,12px],[19,16px]]
