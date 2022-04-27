@@ -568,6 +568,26 @@
           40.027351542884084
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCSIS/High Peaks Elementary",
+        "marker-color": "#7e7e7e",
+        "stroke-width": "",
+        "stroke-opacity": "",
+        "01type": "marker",
+        "kind": "end",
+        "time": "8:30 AM",
+        "emoji": "🏁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24410963058472,
+          40.00475525340286
+        ]
+      }
     }
   ]
 }
