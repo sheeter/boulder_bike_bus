@@ -32,9 +32,9 @@ sources:
         type: MVT
         url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
         url_params: 
-            api_key: 
-            access_token: global.token
-            # access_token: FTYsIM6IQpC4nFOM2S6LpQ
+            api_key: global.token
+            
+            
 
     _routes:
         type: GeoJSON
