@@ -6,11 +6,12 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "stroke-width": "",
-        "name": "North Boulder Meet-u",
+        "name": "North Boulder Meet-up",
         "stroke-opacity": "",
         "01type": "marker",
-        "kind": " ⏰",
-        "time": "7:45"
+        "kind": "start",
+        "time": "7:45",
+        "emoji": "⏰"
       },
       "geometry": {
         "type": "Point",
