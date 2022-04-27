@@ -6,7 +6,8 @@
       "properties": {
         "school_name": "Crest View",
         "jurisdiction": "BVSD",
-        "type": "elementary"
+        "type": "elementary",
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +55,7 @@
         "school_name": "Columbine",
         "jurisdiction": "BVSD",
         "type": "elementary",
-        "visible": ""
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +183,7 @@
         "school_name": "Journey",
         "jurisdiction": "private",
         "type": "pre/K",
-        "visible": ""
+        "visible": "hide"
       },
       "geometry": {
         "type": "Point",
@@ -285,6 +286,22 @@
         "coordinates": [
           -105.26713371276855,
           40.001303525150895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jurisdiction": "BVSD",
+        "type": "elementary",
+        "visible": "",
+        "school_name": "BCSIS/High Peaks Elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24406671524048,
+          40.00475525340286
         ]
       }
     }
