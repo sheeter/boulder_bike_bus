@@ -13,6 +13,7 @@ import:
     # - https://www.nextzen.org/carto/refill-style/11/themes/terrain-shading-dark.zip
 
 global:
+    token: DpCrhQqsR2igQPEINRTfcw
     block_line: 50
     block: 49
     point_zoom: 14
@@ -31,19 +32,27 @@ sources:
         type: MVT
         url: https://tile.nextzen.org/tilezen/vector/v1/all/{z}/{x}/{y}.mvt
         url_params: 
-            api_key: FTYsIM6IQpC4nFOM2S6LpQ
+            api_key:
+            access_token: global.token
+            # access_token: FTYsIM6IQpC4nFOM2S6LpQ
+
     _routes:
         type: GeoJSON
-        url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/routes.geojson
+        url: https://raw.githubusercontent.com/burritojustice/boulder_bike_bus/main/routes.geojson
     _schools:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
     _satellite:
+        # url: https://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/512/png
+        # url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
         url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg
         type: Raster
-        url_params: 
-            key: GqZWha4PKN6pK6IEijud
-
+        utl_params: 
+            key: wTkSyYFwAJ31EaUeDbXl
+        # rasters: [terrain_normals]
+        # url_params:
+        #     app_id: 0VeWPmMuUeMebnjNVGz9
+        #     app_code: MVqjbI661R5lC2DqkAZpNg
 styles:
     _polygons:
         base: polygons
@@ -112,10 +121,10 @@ layers:
     
     _schools:
         data: {source: _schools}
-        filter: {not: {visible: hide}}
-        
+        # filter: {$zoom: {min: 17}}
         draw:
             points:
+                collide: false
                 color: |
                     function(){
                         var color = 'red'
@@ -134,25 +143,27 @@ layers:
                 size: 10px
                 order: 1000
                 outline:
-                    color: |
-                        function(){
-                            var color = 'black'
-                            if (feature.jurisdiction == 'private'){
-                                color = 'aqua'
-                                }
-                            return color
-                            }
-                    # color: grey
-                    width: 1.5px          
+                    # color: |
+                    #     function(){
+                    #         var color = 'black'
+                    #         if (feature.jurisdiction == 'private'){
+                    #             color = 'aqua'
+                    #             }
+                    #         return color
+                    #         }
+                    color: black
+                    width: 1.5px
+
                 text:
                     optional: true
+                    # collide: true
                     text_source: school_name
                     font:
                         fill: white
                         size: [[18,12px],[19,16px]]
                         stroke:
                             color: black
-                            width: 3px           
+                            width: 3px
 
 
     _routes:
@@ -165,15 +176,13 @@ layers:
                         return feature.stroke
                         }
                 # color: black
-                # here you can either specify a CSS / RBG / HSL color, or use a geojson property, or use a function to generate one.
-                # but this is an edge case -- the hex color from geojson.io starts with a # which causes issues as that's a comment in yaml
-                # but running it through a function makes things happy
                 width: [[14,2px],[18,8px]]
                 order: 1000
             _lines: 
                 color: white
-                width: [[14,2px],[18,8px]]
+                width: [[14,3px],[18,10px]]
                 order: 1000
+
         labels:
             filter: {$zoom: {min: 14}}
             draw:
@@ -189,7 +198,6 @@ layers:
                 
         _primary_ants:
             filter: {01type: primary}
-            # here we are filtering just primary roads to show as ants
             draw:
                 _ants:
                     color: function(){return feature.stroke}
@@ -200,32 +208,36 @@ layers:
                     width: [[14,2px],[18,8px]]
                     order: 1001
         
-        _two_way:
-            # enabled: false
-            # just leaving this in here for reference if you want to do conditional styling
-
-            filter: {direction: two-way}
+        _meetups:
+            filter: {01type: marker}
             draw:
-                lines:
-                    # color: [.5,.5,.5,0.75]
-                    # color: [.8,.8,.8,0.3]
-                    color: |
-                        function(){
-                            var color = "black"
-                            if (feature.bike){ // this is the geojson property
-                                color = 'green'
-                                }
-                            if (feature.SFMTA){
-                                color = 'red'
-                                }
-                            return color
-                            }
-                    # color: red
-                    width: [[14,.1px],[16,2px],[18,5px]]
-                    order: 1001
+                _points:
+                    color: lightgreen
+                    size: 12px
+                    order: 2000
+                    outline:
+                        color: black
+                        width: 2px
+
+                    text:
+                        # optional: true
+                        text_source: | 
+                            function(){
+                                var name = feature.name || ''
+                                var emoji = feature.emoji || ''
+                                var time = feature.time || ''
+                                return name + '\n' + emoji + ' ' +  time}
+                        anchor: bottom
+                        font:
+                            fill: black
+                            size: [[18,12px],[19,16px]]
+                            stroke:
+                                color: white
+                                width: 3px 
+
   
 
-# you'll need to provde your own key from maptiler to use satellite tiles -- though I wouldn't in this case because it will make the routes hard to see
+
 #     _satellite:
 #         data: {source: _satellite}
 #         draw:
