@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 title: Boulder Bike Bus
 plugins:
   - jemoji
-github:
-  is_project_page: false
