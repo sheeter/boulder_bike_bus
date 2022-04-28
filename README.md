@@ -2,7 +2,7 @@
 
 Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
-## First Test of the Crosstown Route Friday April 29th!
+## First Test of the Southbound Crosstown Route Friday April 29th!
 
 ### Friday April 29th: Parkside Park to BCSIS/High Peaks Elementary
 
@@ -13,7 +13,7 @@ Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teacher
 What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
 
-### Initial Crosstown “Bus Route” (map below):
+### Initial Southbound Crosstown “Bus Route” (map below):
 
 1. Meet at Parkside Park and 26th Street
 3. Roll south onto Elmer's Two Mile Path
@@ -36,7 +36,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629): marching ants indicate direction of route.
 
-[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200427.gif)](map#14/40.0332/-105.2629)
+[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200427.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629)
 
 ## Sources
 
