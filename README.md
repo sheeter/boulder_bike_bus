@@ -13,7 +13,7 @@ Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teacher
 What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
 
-### Initial Crosstown “Bus Route” (map with schools below):
+### Initial Crosstown “Bus Route” (map below):
 
 1. Meet at Parkside Park and 26th Street
 3. Roll south onto Elmer's Two Mile Path
