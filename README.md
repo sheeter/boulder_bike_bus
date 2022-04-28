@@ -26,7 +26,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 ### Timetable 
 
 ⏰ 7:20 AM Depart Parkside Park   
-🛑 7:30 AM Arrival at Goose Creek Greenway / Balsom & Edgewood Connector  
+🛑 7:30 AM Arrival at Goose Creek Greenway / Balsam & Edgewood Connector  
 🏁 8:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 
