@@ -1,12 +1,12 @@
-# Boulder Bike Bus - Launching on Fridays in Fall 2022
+# Boulder Bike Bus - Launching on Wednesdays in Fall 2022
 
 Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
-## First Test of the Southbound Crosstown Route Friday April 29th!
+## First Test of the Southbound Crosstown Route Wednesday May 4th!
 
-### Friday April 29th: Parkside Park to BCSIS/High Peaks Elementary
+### Parkside Park to BCSIS/High Peaks Elementary
 
-When: Friday April 29 - meet at 7:10 AM, roll at 7:20 AM
+When: Wednesday May 4 - meet at 8:10 AM, roll at 8:20 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
@@ -25,9 +25,9 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### Timetable 
 
-⏰ 7:20 AM Depart Parkside Park   
-🛑 7:30 AM Arrival at Goose Creek Greenway / Balsam & Edgewood Connector  
-🏁 8:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
+⏰ 8:20 AM Depart Parkside Park   
+🛑 8:30 AM Arrival at Goose Creek Greenway / Balsam & Edgewood Connector  
+🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 
 "Add to your calendar"
