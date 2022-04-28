@@ -25,7 +25,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#f500ed",
-        "stroke-width": 4,
+        "stroke-width": 6,
         "stroke-opacity": 1,
         "name": "Crosstown Route",
         "01type": "primary"
@@ -307,7 +307,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#019812",
+        "stroke": "#80cb88",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Kalmia Connector",
@@ -370,7 +370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#019812",
+        "stroke": "#80cb88",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Balsam-Edgewood Connector",
@@ -434,7 +434,7 @@
         "name": "North Boulder Connector",
         "stroke-opacity": "",
         "01type": "connector",
-        "stroke": "#019812"
+        "stroke": "#80cb88"
       },
       "geometry": {
         "type": "LineString",
