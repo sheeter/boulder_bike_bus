@@ -25,7 +25,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#f500ed",
-        "stroke-width": 4,
+        "stroke-width": 6,
         "stroke-opacity": 1,
         "name": "Crosstown Route",
         "01type": "primary"
