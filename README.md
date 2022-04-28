@@ -6,7 +6,7 @@ Join kids and families biking to school (and having fun!) on Kid Safe streets. Y
 
 ### Friday April 29th: Parkside Park to BCSIS/High Peaks Elementary
 
-When: Friday April 29 - meet at 7:30 AM, roll at 7:45 AM
+When: Friday April 29 - meet at 7:10 AM, roll at 7:20 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
@@ -25,9 +25,9 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### Timetable 
 
-⏰ 7:45 AM Depart Parkside Park   
-🛑 8:00 AM Arrival at Goose Creek Greenway / Balsom & Edgewood Connector  
-🏁 8:30 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
+⏰ 7:20 AM Depart Parkside Park   
+🛑 7:30 AM Arrival at Goose Creek Greenway / Balsom & Edgewood Connector  
+🏁 8:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 
 "Add to your calendar"
