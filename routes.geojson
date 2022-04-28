@@ -10,7 +10,7 @@
         "stroke-opacity": "",
         "01type": "marker",
         "kind": "start",
-        "time": "7:45",
+        "time": "7:20",
         "emoji": "⏰"
       },
       "geometry": {
@@ -557,7 +557,7 @@
         "name": "Goose Creek Junction",
         "stroke-opacity": "",
         "kind": "stop",
-        "time": "8:10 AM",
+        "time": "7:30 AM",
         "emoji": "🛑",
         "01type": "marker"
       },
@@ -578,7 +578,7 @@
         "stroke-opacity": "",
         "01type": "marker",
         "kind": "end",
-        "time": "8:30 AM",
+        "time": "8:00 AM",
         "emoji": "🏁"
       },
       "geometry": {
