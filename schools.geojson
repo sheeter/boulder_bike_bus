@@ -294,7 +294,7 @@
       "properties": {
         "jurisdiction": "BVSD",
         "type": "elementary",
-        "visible": "",
+        "visible": "hide",
         "school_name": "BCSIS/High Peaks Elementary"
       },
       "geometry": {
