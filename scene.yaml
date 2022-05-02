@@ -42,9 +42,9 @@ sources:
     _schools:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
-    _cycleOSM:
-        url: https://{s}.tile-cyclosm.openstreetmap.fr/[cyclosm|cyclosm-lite]/{z}/{x}/{y}.png
-        type: Raster
+   # _cycleOSM:
+   #     url: https://{s}.tile-cyclosm.openstreetmap.fr/[cyclosm|cyclosm-lite]/{z}/{x}/{y}.png
+   #     type: Raster
     _satellite:
         # url: https://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/512/png
         # url: https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=wTkSyYFwAJ31EaUeDbXl
@@ -241,11 +241,11 @@ layers:
                                 width: 3px 
 
   
-     _cycleOSM:
-         data: {source: _cycleOSM}
-         draw:
-             raster:
-                 order: 998 # draw on bottom second to last
+#     _cycleOSM:
+#         data: {source: _cycleOSM}
+#         draw:
+#             raster:
+#                 order: 998 # draw on bottom second to last
 
 #     _satellite:
 #         data: {source: _satellite}
