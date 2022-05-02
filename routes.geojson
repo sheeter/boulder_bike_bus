@@ -8,10 +8,10 @@
         "stroke-width": "",
         "name": "Parkside Park Meet-up",
         "stroke-opacity": "",
-        "01type": "marker",
         "kind": "start",
         "time": "8:20",
-        "emoji": "⏰"
+        "emoji": "⏰",
+        "type": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +28,7 @@
         "stroke-width": 6,
         "stroke-opacity": 1,
         "name": "Crosstown Route",
-        "01type": "primary"
+        "type": "primary"
       },
       "geometry": {
         "type": "LineString",
@@ -311,7 +311,7 @@
         "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "Kalmia Connector",
-        "01type": "connector"
+        "type": "connector"
       },
       "geometry": {
         "type": "LineString",
@@ -375,7 +375,7 @@
         "stroke-opacity": 1,
         "name": "Balsam-Edgewood Connector",
         "kind": "",
-        "01type": "connector"
+        "type": "connector"
       },
       "geometry": {
         "type": "LineString",
@@ -433,8 +433,8 @@
         "stroke-width": 4,
         "name": "North Boulder Connector",
         "stroke-opacity": "",
-        "01type": "connector",
-        "stroke": "#80cb88"
+        "stroke": "#80cb88",
+        "type": "connector"
       },
       "geometry": {
         "type": "LineString",
@@ -559,7 +559,7 @@
         "kind": "stop",
         "time": "8:30 AM",
         "emoji": "🛑",
-        "01type": "marker"
+        "type": "marker"
       },
       "geometry": {
         "type": "Point",
@@ -576,10 +576,10 @@
         "marker-color": "#7e7e7e",
         "stroke-width": "",
         "stroke-opacity": "",
-        "01type": "marker",
         "kind": "end",
         "time": "9:00 AM",
-        "emoji": "🏁"
+        "emoji": "🏁",
+        "type": "marker"
       },
       "geometry": {
         "type": "Point",
