@@ -42,7 +42,7 @@ sources:
     _schools:
         type: GeoJSON
         url: https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/schools.geojson
-    _cycleOSM
+    _cycleOSM:
         url: https://{s}.tile-cyclosm.openstreetmap.fr/[cyclosm|cyclosm-lite]/{z}/{x}/{y}.png
         type: Raster
     _satellite:
