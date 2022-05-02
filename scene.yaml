@@ -202,7 +202,7 @@ layers:
                             width: 3px 
                 
         _primary_ants:
-            filter: {01type: primary}
+            filter: {type: primary}
             draw:
                 _ants:
                     color: function(){return feature.stroke}
@@ -214,7 +214,7 @@ layers:
                     order: 1001
         
         _meetups:
-            filter: {01type: marker}
+            filter: {type: marker}
             draw:
                 _points:
                     color: lightgreen
