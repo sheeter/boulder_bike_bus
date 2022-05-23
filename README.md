@@ -30,7 +30,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path  
 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
-
+<br />     
 <!--- "Add to your calendar" --->
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)
