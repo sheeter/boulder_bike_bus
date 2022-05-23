@@ -2,11 +2,11 @@
 
 Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus anywhere along the route — no need to meet us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
 
-## First Test of the Southbound Crosstown Route Wednesday May 4th!
+## First Test of the Southbound Crosstown Route Wednesday May 25th!
 
 ### Parkside Park to BCSIS/High Peaks Elementary
 
-When: Wednesday May 4 - meet at 8:10 AM, roll at 8:20 AM
+When: Wednesday May 25 - meet at 8:20 AM, roll at 8:25 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
@@ -25,14 +25,15 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### Timetable 
 
-⏰ 8:20 AM Depart Parkside Park   
-🛑 8:30 AM Arrival at Goose Creek Greenway / Balsam & Edgewood Connector  
+⏰ 8:25 AM Depart Parkside Park   
+🛑 8:35 AM Arrival at Junction of Goose Creek Greenway / Balsam & Edgewood Connector   
+🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path  
 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 
-"Add to your calendar"
+<!--- "Add to your calendar" --->
 
-*Questions, suggestions, or press inquiries? Email us at _____.*
+*Questions, suggestions, or press inquiries? Email us at sheete.r@gmail.com.*
 
 [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629): marching ants indicate direction of route.
 
