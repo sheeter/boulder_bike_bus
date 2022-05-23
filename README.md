@@ -33,6 +33,8 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 <!--- "Add to your calendar" --->
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)
+
 *Questions, suggestions, or press inquiries? Email us at sheete.r@gmail.com.*
 
 [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629): marching ants indicate direction of route.
