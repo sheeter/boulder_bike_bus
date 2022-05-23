@@ -9,7 +9,7 @@
         "name": "Parkside Park Meet-up",
         "stroke-opacity": "",
         "kind": "start",
-        "time": "8:20",
+        "time": "8:25 AM",
         "emoji": "⏰",
         "type": "marker"
       },
@@ -557,7 +557,7 @@
         "name": "Goose Creek Junction",
         "stroke-opacity": "",
         "kind": "stop",
-        "time": "8:30 AM",
+        "time": "8:35 AM",
         "emoji": "🛑",
         "type": "marker"
       },
@@ -575,7 +575,6 @@
         "stroke-width": 4,
         "name": "Boulder Creek Connector",
         "stroke-opacity": 1,
-        "01type": "",
         "stroke": "#80cb88"
       },
       "geometry": {
@@ -862,8 +861,10 @@
         "name": "Skunk Creek Junction",
         "stroke-opacity": "",
         "kind": "stop",
-        "time": "",
-        "emoji": "🛑"
+        "time": "8:50 AM",
+        "emoji": "🛑",
+        "type": "marker",
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
