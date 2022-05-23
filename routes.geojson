@@ -40,6 +40,45 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "BCSIS/High Peaks Elementary",
+        "marker-color": "#7e7e7e",
+        "stroke-width": "",
+        "stroke-opacity": "",
+        "kind": "end",
+        "time": "9:00 AM",
+        "emoji": "🏁",
+        "type": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24410963058472,
+          40.00475525340286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skunk Creek Junction",
+        "stroke-opacity": "",
+        "kind": "stop",
+        "time": "8:50 AM",
+        "emoji": "🛑",
+        "type": "marker",
+        "stroke": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.24527907371521,
+          40.0135029591825
+        ]
+      }
+    }
     {
       "type": "Feature",
       "properties": {
@@ -1003,44 +1042,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCSIS/High Peaks Elementary",
-        "marker-color": "#7e7e7e",
-        "stroke-width": "",
-        "stroke-opacity": "",
-        "kind": "end",
-        "time": "9:00 AM",
-        "emoji": "🏁",
-        "type": "marker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.24410963058472,
-          40.00475525340286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Skunk Creek Junction",
-        "stroke-opacity": "",
-        "kind": "stop",
-        "time": "8:50 AM",
-        "emoji": "🛑",
-        "type": "marker",
-        "stroke": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.24527907371521,
-          40.0135029591825
-        ]
-      }
-    }
+
   ]
 }
