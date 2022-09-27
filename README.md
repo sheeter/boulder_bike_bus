@@ -21,7 +21,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 7. Turn west onto Skunk Creek Greenway
 8. Arrive at BCSIS/High Peaks Elementary
 
-### Timetable 
+### Timetable (hop on/off at any point!)
 
 ⏰ 8:25 AM Depart Parkside Park   
 🛑 8:35 AM Arrival at Junction of Goose Creek Greenway / Balsam & Edgewood Connector   
