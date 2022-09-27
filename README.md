@@ -1,12 +1,10 @@
-# Boulder Bike Bus - Launching on Wednesdays in Fall 2022
+# Boulder Bike Bus - Southbound Crosstown Rides every Wednesday through 2022! 
 
-Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).
+Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco). We completed [the test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of the southbound route on Wednesday, May 25th. 
 
-## First Test of the Southbound Crosstown Route Wednesday May 25th!
+### Parkside Park to BCSIS/High Peaks Elementary with service to schools along Elmer's Two Mile, Goose Creek and Foothills Paths. 
 
-### Parkside Park to BCSIS/High Peaks Elementary
-
-When: Wednesday May 25 - meet at 8:20 AM, roll at 8:25 AM
+When: Every Wednesday - meet at 8:20 AM, roll at 8:25 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
@@ -29,6 +27,9 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 🛑 8:35 AM Arrival at Junction of Goose Creek Greenway / Balsam & Edgewood Connector   
 🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path  
 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
+
+### Schools Served
+The route provides service to the following schools: Snow Lion Preschool, Columbine Elementary, Mapleton Montessori, Boulder Bilingual Preschool, Whittier Elementary, Acorn School, BCSIS/High Peaks Elementary.
  
 <!--- "Add to your calendar" --->
 
