@@ -35,7 +35,7 @@ The route provides service to the following schools: Snow Lion Preschool, Columb
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)
 
-*Questions, suggestions, or press inquiries? Email us at sheete.r@gmail.com.*
+*Questions, suggestions, or press inquiries? Send a Twitter DM*
 
 [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629): marching ants indicate direction of route.
 
