@@ -29,7 +29,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
 
 ### Schools Served
-The route provides service to the following schools: Snow Lion Preschool, Columbine Elementary, Mapleton Montessori, Boulder Bilingual Preschool, Whittier Elementary, Acorn School, BCSIS/High Peaks Elementary.
+The route provides service to the following schools: Snow Lion Preschool, Columbine Elementary, Mapleton Montessori, Boulder Bilingual Preschool, Whittier Elementary, Acorn School and BCSIS/High Peaks Elementary.
  
 <!--- "Add to your calendar" --->
 
