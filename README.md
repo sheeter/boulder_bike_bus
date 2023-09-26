@@ -46,6 +46,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 <!--- 🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path --->  
 <!--- 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  --->
 
+### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): marching ants indicate direction of route.
 
 #### Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).  
 #### We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route on Wednesday, 5/25/22. 
@@ -58,8 +59,6 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)
 
 *Questions, suggestions, or press inquiries? Send a Twitter DM.*
-
-[Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): marching ants indicate direction of route.
 
 <!---[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200523%20Crosstown.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629)--->
 
