@@ -48,8 +48,12 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 ### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): marching ants indicate direction of route.
 
-#### Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).  
-#### We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route on Wednesday, 5/25/22. 
+*[Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements.*  
+*Message Daniel at 559-232-2532 via text or WhatsApp with any questions.*
+
+### Background
+* More the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco) and [here](https://www.youtube.com/watch?v=kT_GwQfoomw).  
+* We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route in Boulder on Wednesday, 5/25/22. 
 
 <!--- ### Additional Schools Served --->
 <!--- If parents volunteer to lead, the route can include additional service to the following schools: Snow Lion Preschool, Columbine Elementary, Boulder Bilingual Preschool and Whittier Elementary. --->
@@ -58,7 +62,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 <!---[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)--->
 
-*Questions, suggestions, or press inquiries? Send a Twitter DM.*
+<!--- *Questions, suggestions, or press inquiries? Send a Twitter DM.* --->
 
 <!---[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200523%20Crosstown.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629)--->
 
@@ -72,6 +76,6 @@ tangram.js, Tilezen
 
 [BVSD School Locations](https://bvsdschools.maps.arcgis.com/apps/webappviewer/index.html?id=9217a1d6a88a4b769c38495617983d9f)
 
-Bike Bus inspiration from [Barcelona](https://twitter.com/bicibuseixample) and [San Francisco](https://kidsafesf.com/bike-bus)
+Bike Bus inspiration from [Barcelona](https://twitter.com/bicibuseixample), [Portland](https://www.tiktok.com/@coachbalto?lang=en) and [San Francisco](https://kidsafesf.com/bike-bus)
 
 Map inspiration and support from [Burrito Justice](https://twitter.com/burritojustice)
