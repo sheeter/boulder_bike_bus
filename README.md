@@ -1,35 +1,56 @@
-# Boulder Bike Bus - Southbound Crosstown Rides every Wednesday through 2022! 
+# Boulder Bike Bus on Wednesday 10/4/23 
+## Southbound Ride to Mapleton Montessori and Acorn School on BVSD's Annual Walk and Roll to School Day
 
-Join kids and families biking to school (and having fun!) on Kid Safe streets. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco). We completed [the test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of the southbound route on Wednesday, May 25th. Please [send a DM on Twitter](https://twitter.com/BoulderBikeBus) if you're interested in leading a route to your school or have suggestions to make the rides more accessible and inclusive.
+Join kids and families biking to school (and having fun!) on kid-safe streets and paths. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. 
 
-### Parkside Park to BCSIS/High Peaks Elementary with service to schools along Elmer's Two Mile, Goose Creek and Foothills Paths. 
+<!--- ### Dakota Ridge Park to Acorn School with service to Mapleton Montessori and schools along Elmer's TwoMile and Goose Creeek Paths. --->  
+### Dakota Ridge Park to Acorn School and Mapleton Montessori
 
-When: Every Wednesday - meet at 8:20 AM, roll at 8:25 AM
+When: Wednesday Oct. 4, 2024 - meet at 7:55 AM, roll at 8:00 AM
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
 What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
+#### [Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements. 
+#### Message Daniel at 559-232-2532 via text or WhatsApp with any questions.
 
-### Initial Southbound Crosstown “Bus Route” (map below):
+### “Bus Route” to Mapleton Montessori and Acorn School (map below):
+1. Meet at southeast corner of Dakota Ridge Park
+2. Roll south to Four Mile Creek Path
+3. Continue to Elmer's Two Mile Path via 13th St, Upland Ave and 26th St
+4. Turn east onto Goose Creek Path
+5. Mapleton Montessori group splits off at Goose Creek and 29th St Junction
+6. Acorn School group continues east on Goose Creek and exits to Wilderness Place
 
-1. Meet at Parkside Park and 26th Street
-3. Roll south onto Elmer's Two Mile Path
-4. Turn east onto Goose Creek
-5. Turn south onto Foothills Path
-6. Continue south on Bear Creek Trail
-7. Turn west onto Skunk Creek Greenway
-8. Arrive at BCSIS/High Peaks Elementary
+
+<!--- ### Initial Southbound Crosstown “Bus Route” (map below): --->
+<!--- 1. Meet at Parkside Park and 26th Street --->
+<!--- 2. Roll south onto Elmer's Two Mile Path --->
+<!--- 3. Turn east onto Goose Creek --->
+<!--- 4. Turn south onto Foothills Path --->
+<!--- 5. Continue south on Bear Creek Trail --->
+<!--- 6. Turn west onto Skunk Creek Greenway --->
+<!--- 7. Arrive at BCSIS/High Peaks Elementary --->
 
 ### Timetable (hop on/off at any point!)
 
-⏰ 8:25 AM Depart Parkside Park   
-🛑 8:35 AM Arrival at Junction of Goose Creek Greenway / Balsam & Edgewood Connector   
-🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path  
-🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  
+⏰ 8:00 AM Depart Dakota Ridge Park  
+🛑 8:10 AM Arrival at Four Mile Creek Path / North Broadway  
+🛑 8:20 AM Arrival at Wonderland Creek Path / 26th Street  
+🛑 8:25 AM Arrival at Parkside Park / Kalamia Connector  
+🛑 8:35 AM Arrival at Junction of Goose Creek Path / 29th St  
+🏁 8:40 AM Arrival at 🏫 Mapleton Montessori  
+🏁 8:40 AM Arrival at 🏫 Acorn School  
+<!--- 🛑 8:35 AM Arrival at Junction of Goose Creek Path / Balsam & Edgewood Connector --->     
+<!--- 🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path --->  
+<!--- 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  --->
 
-### Schools Served
-The route provides service to the following schools: Snow Lion Preschool, Columbine Elementary, Mapleton Montessori, Boulder Bilingual Preschool, Whittier Elementary, Acorn School and BCSIS/High Peaks Elementary.
+
+#### Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco). We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route on Wednesday, 5/25/22. 
+
+<!--- ### Additional Schools Served --->
+<!--- If parents volunteer to lead, the route can include additional service to the following schools: Snow Lion Preschool, Columbine Elementary, Boulder Bilingual Preschool and Whittier Elementary. --->
  
 <!--- "Add to your calendar" --->
 
@@ -42,6 +63,8 @@ The route provides service to the following schools: Snow Lion Preschool, Columb
 [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200523%20Crosstown.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629)
 
 <!---<iframe src='https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629' width='100%' height=‘600'> </iframe>--->
+
+<!--- Please text 559-232-2532 if you're interested in leading a route to your school or have suggestions to make the rides more accessible and inclusive. --->
 
 ## Sources
 
