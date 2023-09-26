@@ -1,7 +1,7 @@
 # Boulder Bike Bus on Wednesday 10/4/23 
 ## Southbound Ride to Mapleton Montessori and Acorn School on BVSD's Annual Walk and Roll to School Day
 
-Join kids and families biking to school (and having fun!) on kid-safe streets and paths. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. See [below](https://github.com/sheeter/boulder_bike_bus/blob/main/README.md#background) for background on the bike bus movement.
+Join kids and families biking to school (and having fun!) on kid-safe streets and paths. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. See [below](https://github.com/sheeter/boulder_bike_bus/blob/main/README.md#background) for background on the bike bus movement. *This bike bus ride is parent-oranized and not sponsored by the city or BVSD.*
 
 <!--- ### Dakota Ridge Park to Acorn School with service to Mapleton Montessori and schools along Elmer's TwoMile and Goose Creeek Paths. --->  
 ### Dakota Ridge Park to Acorn School and Mapleton Montessori
@@ -23,7 +23,6 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 5. Mapleton Montessori group splits off at Goose Creek and 29th St Junction
 6. Acorn School group continues east on Goose Creek and exits to Wilderness Place
 
-
 <!--- ### Initial Southbound Crosstown “Bus Route” (map below): --->
 <!--- 1. Meet at Parkside Park and 26th Street --->
 <!--- 2. Roll south onto Elmer's Two Mile Path --->
@@ -42,11 +41,11 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 🛑 8:35 AM Arrival at Junction of Goose Creek Path / 29th St  
 🏁 8:40 AM Arrival at 🏫 Mapleton Montessori  
 🏁 8:40 AM Arrival at 🏫 Acorn School  
-<!---🛑 8:35 AM Arrival at Junction of Goose Creek Path / Balsam & Edgewood Connector--->   
+<!---🛑 8:35 AM Arrival at Junction of Goose Creek Path / Balsam & Edgewood Connector--->
 <!---🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path--->
 <!---🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary--->
 
-### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): marching ants indicate direction of route.
+### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): *marching ants indicate direction of route*
 [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724)
 
 *[Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements.*  
