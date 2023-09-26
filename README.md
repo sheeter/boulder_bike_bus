@@ -47,7 +47,8 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 <!--- 🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary  --->
 
 
-#### Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco). We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route on Wednesday, 5/25/22. 
+#### Background about the bike bus movement [here](https://www.bloomberg.com/news/features/2022-02-10/kids-board-bike-trains-from-barcelona-to-san-francisco).  
+#### We completed [a test](https://twitter.com/BoulderBikeBus/status/1529523741297889280) of a southbound route on Wednesday, 5/25/22. 
 
 <!--- ### Additional Schools Served --->
 <!--- If parents volunteer to lead, the route can include additional service to the following schools: Snow Lion Preschool, Columbine Elementary, Boulder Bilingual Preschool and Whittier Elementary. --->
