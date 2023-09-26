@@ -56,7 +56,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
  
 <!--- "Add to your calendar" --->
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)
+<!---[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/boulderbikebus.svg?style=social&label=Follow%20%40boulderbikebus)](https://twitter.com/boulderbikebus)--->
 
 *Questions, suggestions, or press inquiries? Send a Twitter DM.*
 
