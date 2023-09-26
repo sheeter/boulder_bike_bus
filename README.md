@@ -12,8 +12,8 @@ Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teacher
 
 What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
-📱 #### [Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements. 
-❔ #### Message Daniel at 559-232-2532 via text or WhatsApp with any questions.
+#### 💬 [Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements.  
+#### ❔ Message Daniel at 559-232-2532 via text or WhatsApp with any questions.
 
 ### “Bus Route” to Mapleton Montessori and Acorn School (map below):
 1. Meet at southeast corner of Dakota Ridge Park
