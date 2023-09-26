@@ -61,7 +61,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 
 [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724): marching ants indicate direction of route.
 
-<!--- [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200523%20Crosstown.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629) --->
+<!---[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/2022%200523%20Crosstown.gif)](https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629)--->
 
 <!---<iframe src='https://sheeter.github.io/boulder_bike_bus/map#14/40.0332/-105.2629' width='100%' height=‘600'> </iframe>--->
 
