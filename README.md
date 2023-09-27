@@ -46,7 +46,7 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 <!---🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path--->
 <!---🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary--->
 
-### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) with marching ants to indicate direction of route
+### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) *with marching ants to indicate direction of route*
 [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724)
 
 *[Join our WhatsApp Community](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) to coordinate ride details and hear annoucements.*  
