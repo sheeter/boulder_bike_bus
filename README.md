@@ -1,17 +1,16 @@
-# North Boulder Bike Bus on Wednesday 10/4/23 
-## Southbound Ride from North Boulder to Mapleton Montessori and Acorn School on National Walk and Roll to School Day
+# Boulder Bike Bus on Wednesday 10/4/23 -- National Walk and Roll to School Day
+## North Boulder and South Boulder Routes to Mapleton Montessori and Acorn School
 
 Join kids and families biking to school (and having fun!) on kid-safe streets and paths. You can hop on and off the bus by meeting the group anywhere along the route — no need to join us at the start or ride with us to the end. See [below](https://github.com/sheeter/boulder_bike_bus/blob/main/README.md#background) for background on the bike bus movement.   
 *This bike bus ride is parent-organized and not affiliated with the city or BVSD.*
 
 <!--- ### Dakota Ridge Park to Acorn School with service to Mapleton Montessori and schools along Elmer's TwoMile and Goose Creek Paths. --->  
-### Dakota Ridge Park to Acorn School and Mapleton Montessori
 
-When: Wednesday Oct. 4, 2024 - meet at 7:55 AM, roll at 8:00 AM
+When: Wednesday Oct. 4, 2024 - Initial meet-up at 7:55 AM, roll at 8:00 AM. See tabletable details to hop on/off at any point.  
 
 Who: Anyone who wants to ride, roll, scoot, or skate to school! Parents, teachers, kiddos, and fellow bikers/skaters/rollers are welcome.
 
-What: We bike to school together in a big group; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
+What: We bike to school together in a big group on a safe route; most of us on bikes, but anyone on wheels is welcome (e.g. scooters, rollerskates, motorized mobility devices)!
 
 #### 💬 Join our WhatsApp Community to coordinate ride details and hear announcements
 * [North Boulder Route](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5)
