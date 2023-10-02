@@ -66,8 +66,9 @@ What: We bike to school together in a big group on a safe route; most of us on b
 🛑 8:35 AM Arrival at Junction of Goose Creek Path & 29th St (Meet North Boulder Mapleton Montessori families)  
 🏁 8:40 AM Arrival at 🏫 Mapleton Montessori  
 
-[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724)
-[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724)
+[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/North%20boulder%202023%201002.jpeg)]([https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/North%20boulder%202023%201002.jpeg))
+
+[![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/South%20Boulder%202023%201002.png)]([https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/South%20Boulder%202023%201002.png))
 
 <!--- ### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) *with marching ants to indicate direction of route* --->
 <!--- [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) --->
