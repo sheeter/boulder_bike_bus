@@ -35,18 +35,38 @@ What: We bike to school together in a big group; most of us on bikes, but anyone
 <!--- 6. Turn west onto Skunk Creek Greenway --->
 <!--- 7. Arrive at BCSIS/High Peaks Elementary --->
 
-### Timetable (hop on/off at any point!)
+### North Boulder Timetable (hop on/off at any point!)
 
 ⏰ 8:00 AM Depart Dakota Ridge Park  
-🛑 8:10 AM Arrival at Four Mile Creek Path / North Broadway  
-🛑 8:20 AM Arrival at Wonderland Creek Path / 26th Street  
-🛑 8:25 AM Arrival at Parkside Park / Kalamia Connector  
-🛑 8:35 AM Arrival at Junction of Goose Creek Path / 29th St  
+🛑 8:10 AM Arrival at Four Mile Creek Path & North Broadway  
+🛑 8:20 AM Arrival at Wonderland Creek Path & 26th Street  
+🛑 8:25 AM Arrival at Parkside Park  
+🛑 8:33 AM Arrival at Goose Creek Path & Elmer's Path  
+🛑 8:35 AM Arrival at Junction of Goose Creek Path / 29th St (Meet South Boulder Mapleton Montessori families)  
 🏁 8:40 AM Arrival at 🏫 Mapleton Montessori  
 🏁 8:40 AM Arrival at 🏫 Acorn School  
 <!---🛑 8:35 AM Arrival at Junction of Goose Creek Path / Balsam & Edgewood Connector--->
 <!---🛑 8:50 AM Arrival at Junction of Skunk Creek Path / Boulder Creek Path--->
 <!---🏁 9:00 AM Arrival at 🏫 BCSIS/High Peaks Elementary--->
+
+### South Boulder “Bus Route” to Acorn School and Mapleton Montessori (map below):
+1. Meet at Bear Creek Path Underpass of Broadway
+2. Roll north on Bear Creek Path to Baseline Rd & Gilpin Drive
+3. Continue to Foothills Path and turn north
+4. Turn west on Goose Creek Path
+5. Acorn School group exits to Wilderness Place
+6. Mapleton Montessori families continues west to meet North Boulder group at Goose Creek and 29th St Junction
+7. Combined Mapleton Montessori group rides the last 1/2 mile to school via 29th St
+
+### South Boulder Timetable (hop on/off at any point!)
+
+⏰ 8:00 AM Depart Bear Creek Path & Broadway  
+🛑 8:10 AM Arrival at Baseline Rd & Gilpin Dr  
+🛑 8:20 AM Arrival at Foothills Path & Boulder Creek Path (north of bridge)  
+🏁 8:30 AM Arrival at 🏫 Acorn School  
+🛑 8:35 AM Arrival at Junction of Goose Creek Path & 29th St (Meet North Boulder Mapleton Montessori families)  
+🏁 8:40 AM Arrival at 🏫 Mapleton Montessori  
+
 
 ### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) *with marching ants to indicate direction of route*
 [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724)
