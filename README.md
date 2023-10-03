@@ -73,7 +73,7 @@ What: We bike to school together in a big group on a safe route; most of us on b
 <!--- ### [Zoomable map](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) *with marching ants to indicate direction of route* --->
 <!--- [![screenshot](https://raw.githubusercontent.com/sheeter/boulder_bike_bus/main/images/Screenshot%202023-09-25%20221050%20route.png)](https://sheeter.github.io/boulder_bike_bus/map#14.208333333333334/40.0462/-105.2724) --->
 
-*Join our WhatsApp Group Text ([North Boulder](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) and [South Boulder](https://chat.whatsapp.com/HCWOhsPoq3oBJiPli9CAo6) to coordinate ride details and hear annoucements.*  
+*Join our WhatsApp [North Boulder](https://chat.whatsapp.com/JwwTZQnzupG5rmS3lVhVQ5) and [South Boulder](https://chat.whatsapp.com/HCWOhsPoq3oBJiPli9CAo6) Group Text to coordinate ride details and hear annoucements.*  
 *Message Daniel at 559-232-2532 via text or WhatsApp with any questions.*
 
 ### Background
